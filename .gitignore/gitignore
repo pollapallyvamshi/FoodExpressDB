@@ -1,0 +1,22 @@
+# MySQL Workbench temporary files
+*.bak
+*.tmp
+*.log
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Visual Studio Code
+.vscode/
+
+# Environment files
+.env
+
+# Archive files
+*.zip
+*.rar
+
+# Backup SQL files
+*_backup.sql
